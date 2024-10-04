@@ -16,3 +16,8 @@
 
 [Contact Information](#Contact_Information)
 
+---
+## Initial Exposure
+My first step into the Data Analysis World came through an opportunity with the Incubator Hub, through the initaitive, Ladies In Tech Africa that came to my notice via their social media handle ; *@theincubatornigeria*. I enrolled in data analysis and at the initial stage, the concepts felt foreign to me as i was coming from a non-technical background however, with the aid of the well-seasoned tutors, i began to appreciate the power of data in unravelling patterns.
+
+## Courses and Programs
