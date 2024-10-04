@@ -1,3 +1,4 @@
+
 # LITA-EXPERIENCE
 ---
 ## Introduction
@@ -24,5 +25,14 @@ My first step into the Data Analysis World came through an opportunity with the 
 My learning program began on the **19th of August** and the following tools were used;
 - Excel: We started with Excel, which helped me understand the basics of data manipulation, data cleaning, data entry and management. I learned to clean, sort, filter,and analyze data using the pivot table. I also learnt to use commands like  LOOKUP,Conditional functions...,and basic functions like SUM,AVERAGE, and IF statements.
   
+  ![WhatsApp Image 2024-10-04 at 17 33 29_ff0556f4](https://github.com/user-attachments/assets/9834c4ee-4b5b-4ca9-9471-64a751fa26ac)
+![WhatsApp Image 2024-10-04 at 17 30 56_fa63ce7f](https://github.com/user-attachments/assets/bae6d76b-3177-473b-8d1a-6430d3bffcfb)
   
-- SQL : Next was SQL, I was introduced to SQL to query data
+- SQL : Next was SQL, I was introduced to SQL to query databases and retrieve specific data efficiently. Learning SQL taught me how to write queries to files, join, and aggregate data from relational databases. This is an essestial skill in understanding how interact with large datasets stored in databases.
+
+  ![SQL PHOTO](https://github.com/user-attachments/assets/96443881-3bb6-43c7-b079-75e60b66080d)
+![SQL PHOTO 2](https://github.com/user-attachments/assets/1500f2bd-7254-42cc-8a97-cb16111bb7b8)
+
+- POWER BI : I also learned POWER BI, which is a powerful tool for creating interactive data visualizations and dashboards. With POWER BI, i was able to connect to various data sources, transform raw data, and build dynamic shareable reports.
+
+  
