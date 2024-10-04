@@ -21,3 +21,8 @@
 My first step into the Data Analysis World came through an opportunity with the Incubator Hub, through the initaitive, Ladies In Tech Africa that came to my notice via their social media handle ; *@theincubatornigeria*. I enrolled in data analysis and at the initial stage, the concepts felt foreign to me as i was coming from a non-technical background however, with the aid of the well-seasoned tutors, i began to appreciate the power of data in unravelling patterns.
 
 ## Courses and Programs
+My learning program began on the **19th of August** and the following tools were used;
+- Excel: We started with Excel, which helped me understand the basics of data manipulation, data cleaning, data entry and management. I learned to clean, sort, filter,and analyze data using the pivot table. I also learnt to use commands like  LOOKUP,Conditional functions...,and basic functions like SUM,AVERAGE, and IF statements.
+  
+  
+- SQL : Next was SQL, I was introduced to SQL to query data
