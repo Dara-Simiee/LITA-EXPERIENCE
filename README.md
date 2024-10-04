@@ -5,8 +5,14 @@
 
  ## Outline
 [Initial Exposure](#Initial_Exposure) 
+
 [Courses and Programs](#Courses_and_Programs)
+
 [Projects](#Projects) 
+
 [Skills Gained](#Skills_Gained) 
+
 [Future Plans](#Future_Plans)
+
 [Contact Information](#Contact_Information)
+
