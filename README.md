@@ -64,8 +64,8 @@ My learning program began on the **19th of August** and the following tools were
   - Data Cleaning
   - Data Analysis
     
-- - Soft Skills
-  - Problem Solving
+ - Soft Skills
+ - - Problem Solving
   - Analytical thinking
 
 
