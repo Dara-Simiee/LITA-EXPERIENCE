@@ -35,4 +35,52 @@ My learning program began on the **19th of August** and the following tools were
 
 - POWER BI : I also learned POWER BI, which is a powerful tool for creating interactive data visualizations and dashboards. With POWER BI, i was able to connect to various data sources, transform raw data, and build dynamic shareable reports.
 
-  
+  ---
+  ## PROJECTS
+  As i progressed through my data analysis journey, i worked on several projects that helped me apply the concepts and tools i have learned to real life scenarios. Here are a few projects that showcase my growth and the practical skills i have gained.
+  1. Data Retrieval and Data Matching Analysis:
+     This project allowed me use the LOOKUP function to match members of certain department in an organization to their grade level based on the allowances paid to them.
+     
+     -**Data Source:** I used the dataset provided by the organization
+     
+     -**Tools:** EXCEL
+
+     ![project excel](https://github.com/user-attachments/assets/c3b80a86-7bc1-49fe-a5ae-cefbe903ca66)
+![project excel 2](https://github.com/user-attachments/assets/bbbefbc2-ddf2-45f9-8744-679ece40c4bd)
+
+
+2. Aggregate Analysis:
+   This project allowed me to perform aggregate functions (e.g COUNT, SUM, AVG, MAX, MIN) to summarize data. This is useful for generating in sights such as total sales, average scores or the number of unique customer.
+   -**Data Source**: The dataset was provided by the organization.
+
+   -**Tools**: SQL
+
+   ![project SQL](https://github.com/user-attachments/assets/c9464a93-1cb4-44ac-999f-36928b92f1f8)
+![PROJECT SQL 2](https://github.com/user-attachments/assets/63640ea7-157b-4a67-90c5-0f3df4efc2a4)
+
+## Skills Gained
+- Technical Skills
+- - Data Manipulation
+  - Data Cleaning
+  - Data Analysis
+    
+ - Soft Skills
+  - Problem Solving
+  - Analytical thinking
+
+
+## Future Plans
+As i continue my journey in data analysis, i have several key goals and aspirations for the future. They include:
+- Further Education and Specialization
+- practical Experience
+- Networking and Collaboration
+- Contribution to Open Source Projects
+
+  ## Contact Information
+  - LinkedIn:
+  https://www.linkedin.com/in/love-ibiyemi-71813120b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+- Instagram:
+  https://www.instagram.com/love_ibiyemi?igsh=dDB4Y3J5amFoYWZ4&utm_source=qr
+
+
