@@ -64,7 +64,7 @@ My learning program began on the **19th of August** and the following tools were
   - Data Cleaning
   - Data Analysis
     
- - Soft Skills
+- - Soft Skills
   - Problem Solving
   - Analytical thinking
 
@@ -72,7 +72,7 @@ My learning program began on the **19th of August** and the following tools were
 ## Future Plans
 As i continue my journey in data analysis, i have several key goals and aspirations for the future. They include:
 - Further Education and Specialization
-- practical Experience
+- Practical Experience
 - Networking and Collaboration
 - Contribution to Open Source Projects
 
